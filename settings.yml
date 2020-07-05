@@ -1,0 +1,3 @@
+main_params:
+  filepath: './data/MountEverest.csv'   # path for file
+  step: 21                              # get every step'th point
